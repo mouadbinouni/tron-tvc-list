@@ -4,6 +4,7 @@
   "symbol": "fUSDT",
   "decimals": 6,
   "logoURI": "https://raw.githubusercontent.com/mouadbinouni/tron-tvc-list/main/assets/mainnet/TMnd2RzaU54dsZCCy8f1iEiqXazVQ8bKow.png",
-  "homepage": "https://github.com/mouadbinouni/flashusdt",
-  "whitepaper": "https://github.com/mouadbinouni/flashusdt/blob/main/whitepaper.pdf"
+  "homepage": "https://github.com/mouadbinouni/FlashUSDT",
+  "whitepaper": "https://github.com/mouadbinouni/FlashUSDT/blob/main/docs/whitepaper.pdf",
+  "existingMarkets": ["custom"]
 }
